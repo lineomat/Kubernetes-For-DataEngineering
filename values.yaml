@@ -1,0 +1,13 @@
+fernetKey: NzdTbUlWS0lFT0JqMVFLT1d0U3JVUWxQVjBPYXR5VlM=
+webserverSecretKey: NzdTbUlWS0lFT0JqMVFLT1d0U3JVUWxQVjBPYXR5VlM=
+executor: "KubernetesExecutor"
+
+dags:
+  gitSync:
+    enabled: true
+    repo: https://github.com/lineomat/Kubernetes-For-DataEngineering.git
+    branch: master
+    rev: HEAD
+    depth: 1
+    maxFailures: 0
+    subPath: "dags"
