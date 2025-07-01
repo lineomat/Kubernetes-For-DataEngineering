@@ -52,11 +52,11 @@ To access the Dashboard, you may need to start a proxy server:
  This will deploy Airflow with the settings defined in _values.yaml_.
 
   ##### 4. Adding DAGs to Airflow:
-  Copy your DAG files (e.g., fetch_and_preview.py, hello.py) into the DAGs folder of your Airflow deployment. The method of copying depends on your Airflow setup (e.g., using Persistent Volume, Git-sync).
+  Copy your DAG files (e.g., fetch_and_preview.py, hello.py) into the DAGs folder of your Airflow deployment. 
 
 > #### Implementation
-  + ####Kubernetes Dashboard####: Use the Dashboard to monitor and manage the Kubernetes cluster.
-  + ####Apache Airflow####: Access the Airflow web UI to manage, schedule, and monitor workflows.
+  + Kubernetes Dashboard: Use the Dashboard to monitor and manage the Kubernetes cluster.
+  + Apache Airflow: Access the Airflow web UI to manage, schedule, and monitor workflows.
 
  
 
