@@ -3,10 +3,10 @@
 #### Repository Structure
 > ##### The repository is organized as follows:
 
-dags
+#### dags
  + fetch_and_preview.py
  + hello.py
-k8s
+#### K8s
  + dashboard-adminuser.yaml
  + dashboard-clusterrole.yaml
  + dashboard-secret.yaml
