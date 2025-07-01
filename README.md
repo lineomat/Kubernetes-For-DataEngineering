@@ -26,9 +26,9 @@
 
 > #### Implementation
 > ##### Prerequisites
-    + Kubernetes cluster_
-    + _kubectl_ installed and configured
-    + Helm (optional, but recommended for managing Kubernetes applications)
+    Kubernetes cluster_
+    _kubectl_ installed and configured
+    Helm (optional, but recommended for managing Kubernetes applications)
 #### Setup
 ##### 1. Deploy the Kubernetes Dashboard:
 To deploy the Kubernetes Dashboard, apply the YAML files in the k8s directory:
