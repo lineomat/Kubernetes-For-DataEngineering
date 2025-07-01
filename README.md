@@ -2,7 +2,7 @@
 
 #### Repository Structure
 ##### The repository is organized as follows:
-.
+
 ├── dags
 │   ├── fetch_and_preview.py
 │   └── hello.py
@@ -12,7 +12,6 @@
     ├── dashboard-secret.yaml
     ├── recommended-dashboard.yaml
     └── values.yaml
-
-> #### DAGs
+#### DAGs
 fetch_and_preview.py: A DAG for fetching data and providing a preview.
 hello.py: A simple example DAG to demonstrate basic Airflow concepts.
