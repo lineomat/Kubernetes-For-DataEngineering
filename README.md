@@ -4,14 +4,14 @@
 > ##### The repository is organized as follows:
 
 #### dags
- + fetch_and_preview.py
- + hello.py
+ + _fetch_and_preview.py_
+ + _hello.py_
 #### K8s
- + dashboard-adminuser.yaml
- + dashboard-clusterrole.yaml
- + dashboard-secret.yaml
- + recommended-dashboard.yaml
- + values.yaml
+ + _dashboard-adminuser.yaml_
+ + _dashboard-clusterrole.yaml_
+ + _dashboard-secret.yaml_
+ + _recommended-dashboard.yaml_
+ + _values.yaml_
 
 > #### DAGs
 + _fetch_and_preview.py_: A DAG for fetching data and providing a preview.
