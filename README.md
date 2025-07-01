@@ -26,7 +26,7 @@
 
 > #### Implementation
 > ##### Prerequisites
-    + A Kubernetes cluster
+    + Kubernetes cluster_
     + _kubectl_ installed and configured
     + Helm (optional, but recommended for managing Kubernetes applications)
 #### Setup
