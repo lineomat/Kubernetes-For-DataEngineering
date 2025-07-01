@@ -16,7 +16,7 @@
 + _fetch_and_preview.py_: A DAG for fetching data and providing a preview.
 + _hello.py_: A simple example DAG to demonstrate basic Airflow concepts.
 
-> Kubernetes (k8s) Configuration
+#### Kubernetes (k8s) Configuration
 + _dashboard-adminuser.yaml_: YAML file for setting up an admin user for the Kubernetes Dashboard.
 + _dashboard-clusterrole.yaml_: YAML file defining the cluster role for the Kubernetes Dashboard.
 + _dashboard-secret.yaml_: YAML file for managing secrets used by the Kubernetes Dashboard.
